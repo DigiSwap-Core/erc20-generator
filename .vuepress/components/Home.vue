@@ -80,7 +80,7 @@
                     <b-embed
                             type="iframe"
                             aspect="16by9"
-                            src="https://docs.google.com/forms/d/e/1FAIpQLSefU7E64lPdo4ZVrKS9yjCXzQ0PwEo37SgkwpIPUJ3CiRlrfA/viewform?embedded=true"
+                            src="#"
                             allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
                             allowfullscreen
                     ></b-embed>
