@@ -15,8 +15,10 @@
             <b-navbar-nav class="ml-auto">
                 <b-nav-item to="/" :active="page === 'Home'">Home</b-nav-item>
                 <b-nav-item to="/docs/" :active="page === 'Docs'">Docs</b-nav-item>
-                <b-nav-item target="_blank" href="https://medium.com/erc20generator"><small>Blog</small></b-nav-item>
-                <b-nav-item v-b-modal.modal-feedback><small>Feedback</small></b-nav-item>
+                <b-nav-item target="_blank" href="https://digiswap.finance"><small>Web</small></b-nav-item>
+                <b-nav-item target="_blank" href="https://dex.digiswap.finance/"><small>DEX</small></b-nav-item>
+                <b-nav-item target="_blank" href="https://cex.digiswap.finance/"><small>CEX</small></b-nav-item>
+                <b-nav-item target="_blank" href="https://marketplace.digiswap.finance/"><small>MarketPlace</small></b-nav-item>
             </b-navbar-nav>
 
         </b-collapse>
